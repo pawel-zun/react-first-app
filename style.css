@@ -1,0 +1,18 @@
+.movie-instance {
+	width: 350px;
+	display: flex;
+	align-items: flex-start;
+	padding: 15px;
+	background-color: #1abc9c;
+	border-radius: 10px;
+}
+
+.poster {
+	width: 150px;
+	order: -1;
+	margin-right: 10px;
+}
+
+.movie-desc {
+	margin: 0;
+}
